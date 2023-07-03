@@ -1,0 +1,11 @@
+Welcome to seARch!! terminal edition!! a striped down version of seARch!! for Squirrel-Navigator
+[34m[ FAQ type: squirrelcom.github.io/faq ]
+[34m[ Found a bug! type: squirrelcom.github.io/bugs ]
+[34mArt type: frieze.com/
+[34mWork type: office.com
+[34mComputers type: github.com
+[34mEducation type: academicearth.org
+[34mEntertainment type: youtube.com
+[34mHealth type: nhs.uk
+[34mNews type: bbc.co.uk
+[34mScience type: sciencemag.org
